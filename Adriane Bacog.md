@@ -1,0 +1,1 @@
+We collaborate by sharing ideas and helping each other in every task. Each member contributes their skills, communicates clearly, and works together to complete the project on time. Through teamwork and cooperation, we ensure that our project is successful.
