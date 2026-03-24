@@ -1,32 +1,31 @@
 # BSIS-3A--MARCH-24-2026-GROUP-4 
-# BSIS-3A--MARCH-24-2026-GROUP-4
-This activity is for CC106 - Laboratory 1: Tools & Architecture Setup
+Project Title
+Laboratory 1: Tools & Architecture Setup
+-Purpose
+This project demonstrates how the group used Git and GitHub to collaborate and push individual files into a shared repository.
 
+-Collaboration Process
+The group collaborated by using Git and GitHub as a version control system. First, one member created the repository and set it to public. All members were then given access to the repository.
+Each member cloned or accessed the repository and created their own .md file containing their work. After that, they added, committed, and pushed their files to the repository.
+Every push made by each member is recorded as a commit, allowing the group to track contributions and changes. This process ensured that all members were able to submit their work individually while contributing to one shared project.
 
-## 📁 FOLDER STRUCTURE
-Our project is organized with these folders, each with a clear purpose:
+-Folder Structure
+The repository contains individual .md files for each group member and a README.md for documentation.
 
-- /src (Source Files)
-  - Purpose: Stores all core project code (e.g., program files or scripts). This keeps important code organized and easy to find.
+-Component Layering Strategy
+The project is divided into two parts: the documentation layer (README.md) and the individual contribution layer (separate .md files of members).
 
-- /docs (Documentation)
-  - Purpose: Holds additional notes, guides, or diagrams about the project. Anyone working on or using the project can quickly access information here.
+-Group Members
+Adriane Bacog
+Brethel Ann Igcalinos
+Irene Agad
+Ivy Lagunoy
+Ronil Villasquina
 
-- /assets (Assets)
-  - Purpose: Stores images, stylesheets, or other static files used in the project. This prevents clutter and makes files easy to access.
+-Tools Used
+Visual Studio Code
+Git
+GitHub
 
-
-## 🏗️ COMPONENT LAYERING STRATEGY
-We split the project into 3 layers to define clear roles for each part:
-
-1. *Presentation Layer*
-   - Responsibility: Handles what users see and interact with (e.g., UI forms or display screens).
-   - Purpose: Makes it easy to customize the project’s look and ensure it’s user-friendly.
-
-2. *Service Layer*
-   - Responsibility: Manages project logic (e.g., processing data or running features).
-   - Purpose: Keeps logic organized, making it easy to fix issues or add new features.
-
-3. *Data Layer*
-   - Responsibility: Connects to databases or stores data.
-   - Purpose: Keeps data handling clear, and makes it easy to switch to different data sources if needed.
+-Submission
+This repository is submitted as part of Laboratory 1 activity.
